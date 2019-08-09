@@ -1,0 +1,6 @@
+.Board {
+  margin: 0 auto;
+  background-color: darkgray;
+  border: none;
+  border-collapse: collapse;
+}
