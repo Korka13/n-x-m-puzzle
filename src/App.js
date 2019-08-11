@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className='App'>
-        <Board nrows={4} ncols={4} shuffle={true} />
+        <Board nrows={5} ncols={1} shuffle={true} />
       </div>
     );
   }
