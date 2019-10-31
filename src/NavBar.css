@@ -1,0 +1,14 @@
+.NavBar .Title {
+	color: #e25646;
+}
+
+.NavBar nav {
+	display: flex;
+	justify-content: space-between;
+	padding: 2rem 1rem;
+	margin: 2rem;
+}
+.NavBar nav a {
+	color: white;
+	text-decoration: none;
+}

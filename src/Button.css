@@ -1,0 +1,16 @@
+.Button {
+	font-size: 1.1rem;
+	border: 2px solid #7a6800;
+	cursor: pointer;
+	background-color: gold;
+	border-radius: 15px;
+	padding: 0.5rem 1rem;
+	margin: 1rem;
+	box-shadow: 0 0.2em #7a6800;
+}
+
+.Button:active {
+	box-shadow: none;
+	position: relative;
+	top: 0.2em;
+}

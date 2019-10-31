@@ -1,0 +1,40 @@
+.Cell {
+	height: 100px;
+	width: 100px;
+	margin: none;
+	border: 2px solid black;
+}
+
+.Cell-empty {
+	background-color: darkgray;
+}
+
+.Cell-even {
+	background-color: salmon;
+	cursor: pointer;
+}
+
+.Cell-odd {
+	background-color: teal;
+	cursor: pointer;
+}
+
+.move-up {
+	transform: translateY(-100px);
+}
+.move-right {
+	transform: translateX(100px);
+}
+.move-down {
+	transform: translateY(100px);
+}
+.move-left {
+	transform: translateX(-100px);
+}
+
+.move-up,
+.move-right,
+.move-down,
+.move-left {
+	transition: all 0.2s ease-out;
+}
