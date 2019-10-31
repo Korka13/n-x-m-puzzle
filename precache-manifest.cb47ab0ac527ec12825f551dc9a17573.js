@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/n-x-m-puzzle/static/css/main.2480dc2b.chunk.css"
   },
   {
-    "revision": "67c86d87b51ecaadcc2e266bec21b977",
+    "revision": "263a7bb903134725072801884e53309f",
     "url": "/n-x-m-puzzle/index.html"
   }
 ];
